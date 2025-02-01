@@ -1,9 +1,9 @@
 # POO-2024.2
 
-Projeto inicial da disciplina.
-# Aluno: Athisson Alberto Lima Marques
+# Projeto inicial da disciplina.
+Aluno: Athisson Alberto Lima Marques
 
-Fitness App: um aplicativo com aulas para treinos, usuários e acompanhamento de progresso que oferece rotinas de exercícios, acompanhamento de condicionamento físico e muito mais.
+# Fitness App: um aplicativo com aulas para treinos, usuários e acompanhamento de progresso que oferece rotinas de exercícios, acompanhamento de condicionamento físico e muito mais.
 
 Funcionalidades:
 
