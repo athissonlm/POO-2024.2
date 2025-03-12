@@ -7,7 +7,7 @@ Aluno: Athisson Alberto Lima Marques
 
 Funcionalidades:
 
-#01 Criar/Gerenciar Plano de Treino (create_workout) - Implementada
+#01 Criar/Gerenciar Plano de Treino (create_workout) - Implementada\
 Adiciona treinos a uma lista global.
 
 #02 Rastrear Atividades (track_activity) - Implementada 
