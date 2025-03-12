@@ -1,11 +1,10 @@
 # POO-2024.2
-
-# Projeto inicial da disciplina.
 Aluno: Athisson Alberto Lima Marques
 
-# Fitness App: um aplicativo com aulas para treinos, usuários e acompanhamento de progresso que oferece rotinas de exercícios, acompanhamento de condicionamento físico e muito mais.
+# Fitness App
+Um aplicativo com aulas para treinos, usuários e acompanhamento de progresso que oferece rotinas de exercícios, acompanhamento de condicionamento físico e muito mais.
 
-Funcionalidades:
+# Funcionalidades:
 
 #01 Criar/Gerenciar Plano de Treino (create_workout) - Implementada\
 Adiciona treinos a uma lista global.
@@ -42,3 +41,17 @@ Mostra progresso em relação às metas.
 
 #12 Sair (exit) - Implementada\
 Encerra o programa.
+
+# Conceitos Utilizados:
+
+- Classes: Define a estrutura e o comportamento de cada objeto.
+
+- Métodos: Funções definidas dentro das classes que descrevem os comportamentos dos objetos dela.
+
+- Encapsulamento: Os atributos que não são acessados diretamente fora das classes foram prefixados com um underscore (_), como self._workouts,  self._activities, self._nutrition, etc. Isso indica que esses atributos são privados.
+
+- Herança: As classes ActivityTracker e NutritionTracker herdam da classe abstrata Tracker. Isso significa que ambas as classes são especializações da classe base e são tratadas como instâncias de Tracker.
+
+- Polimorfismo: Quando o código chama o método track em diferentes instâncias de Tracker (como ActivityTracker e NutritionTracker). O mesmo método pode se comportar de maneira diferente dependendo da classe que o implementa.
+
+- Classe Abstrata: A classe Tracker é uma classe abstrata que define a interface para rastreadores de atividades e nutrição. Ela contém métodos abstratos (track e get_progress) que são implementados pelas subclasses.
