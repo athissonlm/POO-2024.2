@@ -1,5 +1,6 @@
 # Projeto de Software 2024.2
-Aluno: Athisson Alberto Lima Marques
+Discente: Athisson Alberto Lima Marques\
+Docente: Baldoino Fonseca dos Santos Neto
 
 # Fitness App
 Um aplicativo com aulas para treinos, usuários e acompanhamento de progresso que oferece rotinas de exercícios, acompanhamento de condicionamento físico e muito mais.
