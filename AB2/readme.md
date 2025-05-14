@@ -13,8 +13,14 @@ Projeto final refatorado com implementações dos padrões de design.
 
 Para elaboração do projeto, os seguintes padrões de design foram implementados:
 
-  Criacional (Singleton): Garantia de que apenas uma instância da classe Gerente exista, centralizando o gerenciamento.
+- Criacional (Singleton):
+  -  Utilizado na classe Gerente;
+  -  Garantia de que apenas uma instância da classe Gerente exista durante a execução do programa.
 
-  Estrutural (Adapter): Permite que a classe Funcionários se integre com um sistema de relatórios, transformando dados em um formato utilizável.
+- Estrutural (Adapter):
+  - Utilizado na classe Funcionario;
+  - Permite que a classe Funcionários se integre com um sistema de relatórios, transformando dados em um formato utilizável.
 
-  Comportamental (Observer): Facilita a notificação de funcionários sobre mudanças nas leis, permitindo um sistema reativo e dinâmico.
+- Comportamental (Observer):
+  - Utilizado nas classes Leis e FuncionarioObserver;
+  - Facilita a notificação de funcionários sobre mudanças nas leis, permitindo um sistema reativo e dinâmico.
