@@ -1,4 +1,4 @@
-# POO-2024.2
+# Projeto de Software 2024.2
 Aluno: Athisson Alberto Lima Marques
 
 # Fitness App
